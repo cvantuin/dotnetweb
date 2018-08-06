@@ -1,0 +1,14 @@
+/Users/cvantuin/demo/dotnetweb/bin/Debug/netcoreapp2.1/dotnetweb.deps.json
+/Users/cvantuin/demo/dotnetweb/bin/Debug/netcoreapp2.1/dotnetweb.runtimeconfig.json
+/Users/cvantuin/demo/dotnetweb/bin/Debug/netcoreapp2.1/dotnetweb.runtimeconfig.dev.json
+/Users/cvantuin/demo/dotnetweb/bin/Debug/netcoreapp2.1/dotnetweb.dll
+/Users/cvantuin/demo/dotnetweb/bin/Debug/netcoreapp2.1/dotnetweb.pdb
+/Users/cvantuin/demo/dotnetweb/obj/Debug/netcoreapp2.1/dotnetweb.csprojAssemblyReference.cache
+/Users/cvantuin/demo/dotnetweb/obj/Debug/netcoreapp2.1/dotnetweb.csproj.CoreCompileInputs.cache
+/Users/cvantuin/demo/dotnetweb/obj/Debug/netcoreapp2.1/dotnetweb.RazorAssemblyInfo.cache
+/Users/cvantuin/demo/dotnetweb/obj/Debug/netcoreapp2.1/dotnetweb.RazorAssemblyInfo.cs
+/Users/cvantuin/demo/dotnetweb/obj/Debug/netcoreapp2.1/dotnetweb.AssemblyInfoInputs.cache
+/Users/cvantuin/demo/dotnetweb/obj/Debug/netcoreapp2.1/dotnetweb.AssemblyInfo.cs
+/Users/cvantuin/demo/dotnetweb/obj/Debug/netcoreapp2.1/dotnetweb.RazorTargetAssemblyInfo.cache
+/Users/cvantuin/demo/dotnetweb/obj/Debug/netcoreapp2.1/dotnetweb.dll
+/Users/cvantuin/demo/dotnetweb/obj/Debug/netcoreapp2.1/dotnetweb.pdb
